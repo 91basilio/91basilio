@@ -27,7 +27,7 @@ O que estou estudando:
  
  
  
- ![Snake animation](https://github.com/tulioalbu/tulioalbu/blob/output/github-contribution-grid-snake.svg)
+ 
 
   
   
