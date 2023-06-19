@@ -13,7 +13,7 @@ Estudante do Next na Cesar School. Sou formado em psicologia pela Universidade F
   
 <div>
 <img aling="center">
-<img height="140em" src="https://github-readme-stats.vercel.app/api?username=91basilio&show_icons=true&theme=dracula"/>
+<img height="140em" src="https://github-readme-stats.vercel.app/api?username=91basilio&theme=radical"/>
 </div> 
 
 <div style="display: inline_block"><br>
