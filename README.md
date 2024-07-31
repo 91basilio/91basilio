@@ -2,7 +2,9 @@
 
 ### Olá! Sou Basílio Queiroz 
 
-Estudante do Next na Cesar School. Sou formado em psicologia pela Universidade Federal de Pernambuco, também sou músico nas horas vagas. 
+Atuo como Software Quality Assurance Analysts and Testers na Blue Technology trabalhando em projetos 
+
+Neste espaço compartilho um pouco dos meus estudos. Sou concluinte do programa NExT da Cesar School e estou cursando ADS na UNIFBV Wyden (Terceiro período)
 #
 
 <div style="display: inline_block"><br>
@@ -32,6 +34,7 @@ Estudante do Next na Cesar School. Sou formado em psicologia pela Universidade F
 [![](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)]()
 [![](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)]()
 [![](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)]()
+
 <div>
  
 #
